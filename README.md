@@ -9,3 +9,5 @@ Steps for use(Windows):
 
 I'm currently using Hyper with Git-Bash. Here's the Screenshot!
 ![Git-Bash on Hyper](https://drive.google.com/uc?authuser=0&id=1-z10vJr4i48QmeBKj__kXW1BX2hnK5jC&export=download)
+
+Most of the code is the original code from git-prompt.sh with some minor changes.
