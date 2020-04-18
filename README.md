@@ -8,9 +8,9 @@ Steps for use(Windows):
 4. Now you should be good to go!
 
 I'm currently using Hyper with Git-Bash. Here's the Screenshot!
-![Git-Bash on Hyper](https://drive.google.com/file/d/1qcBAKSvLJXKHd65IlKTndMjOX9SgRJZx/view?usp=sharing)
+![Git-Bash on Hyper](https://drive.google.com/file/d/1qcBAKSvLJXKHd65IlKTndMjOX9SgRJZx/preview)
 
 Here's How It looks like on Git-Bash!
-![Git-Bash](https://drive.google.com/file/d/1ASbB3stYRKQqg4jyChcgNN-Il1QSbEqU/view?usp=sharing)
+![Git-Bash](https://drive.google.com/file/d/1ASbB3stYRKQqg4jyChcgNN-Il1QSbEqU/preview)
 
 Most of the code is the original code from git-prompt.sh with some minor changes.
